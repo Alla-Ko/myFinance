@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Chart_accounts</class>
+ <widget class="QDialog" name="Chart_accounts">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>660</width>
+    <height>503</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>660</width>
+    <height>503</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>660</width>
+    <height>503</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Динаміка залишків коштів</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="Res.qrc">
+    <normaloff>:/new/prefix1/IMG/ico.png</normaloff>:/new/prefix1/IMG/ico.png</iconset>
+  </property>
+  <widget class="QFrame" name="frame">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>641</width>
+     <height>481</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout"/>
+  </widget>
+ </widget>
+ <resources>
+  <include location="Res.qrc"/>
+ </resources>
+ <connections/>
+</ui>

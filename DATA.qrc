@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>DAT/accounts.dat</file>
+        <file>DAT/currency.dat</file>
+        <file>DAT/expenses.dat</file>
+        <file>DAT/incomes.dat</file>
+        <file>DAT/transfers.dat</file>
+    </qresource>
+</RCC>
